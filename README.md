@@ -19,6 +19,9 @@ A comprehensive collection of machine learning models implemented in Python usin
 - **Multivariate Regression** - Multiple variable regression
 - **Gradient Descent** - Optimization algorithm implementation
 
+### Generative Model
+- **Conditional Generative Adversarial Network** - Specific type of GAN
+
 ### Real-World Applications
 - **Naive Bayes - Email Spam Detection** - Practical spam classification system
 - **Naive Bayes - Titanic Survival Prediction** - Survival prediction model
